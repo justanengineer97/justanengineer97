@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @justanengineer97
-- 👀 I’m interested in robotics and hardware designs
-- 🌱 I’m currently learning robotics operating systems
+- 👀 I’m interested in software and robotics programming 
 - 📫 You can reach me by emailing selfstudyengineer@gmail.com
 
 <!---
